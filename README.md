@@ -1,6 +1,6 @@
 # Welcome to my GitHub profil!
 
-👋 I'm a **Data Analyst** passionate about transforming raw information into actionable intelligence through **data science**, from rigorous statistical analysis to innovative machine learning solutions.
+👋 I'm a **Biologist** passionate about transforming raw information into actionable intelligence through **data science**, from rigorous statistical analysis to innovative machine learning solutions.
 
 ## About Me
 
