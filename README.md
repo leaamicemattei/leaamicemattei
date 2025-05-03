@@ -12,7 +12,7 @@
 ## Background
 
 🌿 With a Master's degree in Biodiversity, Ecology, and Evolution, with a specialization in statistical modeling from the University of Montpellier, and several years of experience teaching mathematics and computer science, I bring **rigor**, **method**, and a **strong sense of pedagogy** to tackle data challenges from unique perspectives.  
-Looking to collaborate on projects where data science meets social impact, scientific advancement, and/or environmental stewardship! Particularly enthusiastic about **technological challenges** that push boundaries and create innovative solutions across disciplines.
+Looking to collaborate on projects where data science meets scientific advancement and/or environmental stewardship! Particularly enthusiastic about **technological challenges** that push boundaries and create innovative solutions across disciplines.
 
 ## Contact me
 
